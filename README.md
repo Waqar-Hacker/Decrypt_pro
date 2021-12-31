@@ -12,5 +12,5 @@ $ https://github.com/Waqar-Hacker/Decrypt_pro
 ```
 $ cd Decrypt_pro 
 $ ls  
-$ python Decrypt_pro
+$ python2 Decrypt_pro
 ```
